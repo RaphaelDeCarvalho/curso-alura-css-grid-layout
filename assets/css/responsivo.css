@@ -39,6 +39,9 @@
         width: calc(100% - 1rem);
         margin-bottom: 1rem;
     }
+    .populares__card___imagem {
+        object-fit: cover;
+    }
     
 }
 
@@ -89,6 +92,9 @@
     .populares__card {
         width: calc(33% - 1rem);
     }
+    .populares__card___imagem{
+        object-position: top;
+    }
 }
 
 @media screen and (min-width: 1200px){
@@ -99,4 +105,5 @@
     .populares__card {
         width: calc(20% - 1rem);
     }
+    
 }
