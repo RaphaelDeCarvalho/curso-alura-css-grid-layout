@@ -1,7 +1,9 @@
 .populares {
     padding: 3rem 0.5rem 3rem 2rem;
 }
-
+.populares__itens {
+    padding: 1.1rem 0 0;
+}
 .populares__conteudo{
     display: flex;
     flex-wrap: wrap;
