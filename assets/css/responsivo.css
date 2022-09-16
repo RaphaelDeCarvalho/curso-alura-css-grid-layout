@@ -49,6 +49,9 @@
     .menu_link {
         padding: 0.5rem 0.3rem;
     }
+    .populares__itens {
+        padding: 2.1rem 0 0;
+    }
 }
 
 @media screen and (min-width: 768px){
